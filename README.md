@@ -1,7 +1,3 @@
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/phuse-org/phuse-scripts/blob/master/LICENSE.md) 
-[Search](https://github.com/search/advanced)
-
-
 ## PhUSE CS Standard Analyses Working Group
 
 #### Links to PhUSE Wiki Site
